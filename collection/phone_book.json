@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Combinations",
+    "phones": [
+        {"name":["Variations"],"file":["Combo Variant 1","Combo Variant 2","Combo Variant 3","Combo Variant 4"],"suffix":["var1","var2","var3","var4"]}
+    ]
+  },
+  {
+    "name":   "KBEAR",
+    "phones": [ {"name":"KS2 S2","file":"KBEAR KS2 S2"}
+              , {"name":"Stellar","file":"KBEAR Stellar"} ]
+  }, {
+    "name":   "KZ",
+    "phones": [ {"name":"ZSN Pro","file":"KZ ZSN Pro"} ]
+  }, {
+    "name":   "Moondrop",
+    "phones": [ {"name":"Quarks","file":"Moondrop Quarks"} ]
+  }, {
+    "name":   "Tanchjim",
+    "phones": [ {"name":"Ola","file":"Tanchjim Ola"} ]
+  }
+]
