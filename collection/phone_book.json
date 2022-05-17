@@ -18,5 +18,8 @@
   }, {
     "name":   "Tanchjim",
     "phones": [ {"name":"Ola","file":"Tanchjim Ola"} ]
+  }, {
+    "name":   "Xiaomi",
+    "phones": [ "Mi In-Ear Headphones Pro" ]
   }
 ]
