@@ -9,7 +9,7 @@
 * Measurement: R
 * Smoothing: None
 * Frequency Step: 
-* Start Frequency: 20.884 Hz
+* Start Frequency: 20.000 Hz
 *
 * Freq(Hz)	SPL(dB)	
 20.0000	7.0275

@@ -6,6 +6,11 @@
     ]
   },
   {
+    "name":   "Edifier",
+    "phones": [ {"name":"W830BT (bluetooth)","file":"Edifier W830BT BT"}
+              , {"name":"W830BT (cable)","file":"Edifier W830BT Cable"} ]
+  },
+  {
     "name":   "KBEAR",
     "phones": [ {"name":"KS2 S2","file":"KBEAR KS2 S2"}
               , {"name":"Stellar","file":"KBEAR Stellar"} ]
